@@ -12,7 +12,7 @@ let styles = {
     	<div class="container">
 
 	        <div className="jumbotron" align="center" style={styles}>
-	            <h1 className="display-3">Registrar Libro</h1>
+	            <h1 className="display-3">Registrar Libro 2</h1>
 	        </div>
 
 	        <div class="col-md-6" >
