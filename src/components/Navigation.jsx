@@ -9,7 +9,7 @@ const Navigation = () => {
             <a className="nav-link" ><NavLink to="/Categoria">Agregar Categoria</NavLink></a>
             <a className="nav-link" ><NavLink to="/Tipo">Agregar Tipo</NavLink></a>
             <a className="nav-link" ><NavLink to="/Estante">Agregar Estantes</NavLink></a>
-            <a className="nav-link" ><NavLink to="/formRegLibro">Nuevo Usuario</NavLink></a>
+            <a className="nav-link" ><NavLink to="/Usuarios">Nuevo Usuario</NavLink></a>
         </nav>
     );
 };

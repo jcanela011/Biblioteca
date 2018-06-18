@@ -7,6 +7,7 @@ import Contact from './components/formRegLibro';
 import Categoria from './components/Categoria';
 import Estante from './components/Estante';
 import Tipo from './components/Tipo';
+import Usuarios from './components/Usuarios';
 import Page404 from './components/Page404';
 
 import Navigation from './components/Navigation';
@@ -23,6 +24,7 @@ class App extends Component {
             <Route path="/Categoria" component={Categoria} />
             <Route path="/Estante" component={Estante} />
             <Route path="/Tipo" component={Tipo} />
+            <Route path="/Usuarios" component={Usuarios} />
             <Route component={Page404} />
           </Switch>
         </div>
