@@ -15,7 +15,7 @@ let styles = {
 	            <h1 className="display-3">Registrar Libro</h1>
 	        </div>
 
-	        <div class="col-md-6" class="container" >
+	        <div class="col-md-6" class="container-fluid" >
 		    	<form class="form-group">
 		    		<h1>Datos</h1>
 		    		<div class="row" class="form-row">
